@@ -1,0 +1,20 @@
+{
+  "name": "template-app",
+  "version": "1.0.0",
+  "description": "Ready to use template for node app with basic required features of an application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtarique/template-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtarique/template-app/issues"
+  },
+  "homepage": "https://github.com/mtarique/template-app#readme"
+}
